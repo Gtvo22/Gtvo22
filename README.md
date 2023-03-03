@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola Soy Gustavo Gonzalez
+Actualmente estudio **Programacion en software** en la **universidad de caldas** y estoy realizado un **Bootcamp** de **programacion Full Stack**, tengo 28 años soy de **Colombia.**
 
-<!--
-**Gtvo22/Gtvo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skill
 
-Here are some ideas to get you started:
+* HTML5
+* JAVASCRIP
+* REACT
+* NODE JS
+* CSS
+* PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# HOBBIES
+
+* OIR MUSICA
+* COSINAR
+* VER SERIES
+* NADAR
+
+# FORMACION ACADEMICA
+
+|CARRERA                 | UNIVERSIDAD  |
+|------------------------|--------------|
+|PROGRAMACION WEB        | ALURA LATAM  |
+|PROGRAMACION FULL STACK | HENRY        |
